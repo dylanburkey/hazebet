@@ -1,0 +1,65 @@
+{
+  "pages": {
+    "/_not-found": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/app/_not-found-75cff08595e79f1c.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/e307914e-44da92db1a6aaced.js",
+      "static/chunks/4e88bc13-c66f24d790e11827.js",
+      "static/chunks/8435-8b07bcb6f506d9e5.js",
+      "static/css/92fbc5a524e80468.css",
+      "static/chunks/6273-6018fea5a26b28f9.js",
+      "static/css/24cccfe814bf815e.css",
+      "static/chunks/app/layout-bfc9151c65a32338.js"
+    ],
+    "/bets/page": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/e307914e-44da92db1a6aaced.js",
+      "static/chunks/4e88bc13-c66f24d790e11827.js",
+      "static/chunks/8435-8b07bcb6f506d9e5.js",
+      "static/chunks/6273-6018fea5a26b28f9.js",
+      "static/chunks/app/bets/page-1e65facf88998742.js"
+    ],
+    "/events/[sport]/[id]/page": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/e307914e-44da92db1a6aaced.js",
+      "static/chunks/4e88bc13-c66f24d790e11827.js",
+      "static/chunks/8435-8b07bcb6f506d9e5.js",
+      "static/chunks/6273-6018fea5a26b28f9.js",
+      "static/chunks/app/events/[sport]/[id]/page-3e58567aed7a6be3.js"
+    ],
+    "/events/[sport]/page": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/e307914e-44da92db1a6aaced.js",
+      "static/chunks/4e88bc13-c66f24d790e11827.js",
+      "static/chunks/8435-8b07bcb6f506d9e5.js",
+      "static/chunks/6273-6018fea5a26b28f9.js",
+      "static/chunks/app/events/[sport]/page-2b31157a0eec8773.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-b552dc3df9ef5e22.js",
+      "static/chunks/fd9d1056-7cf91bd37b64cf1e.js",
+      "static/chunks/2472-4f2c2b9b8a025da1.js",
+      "static/chunks/main-app-581329e9f4cfabd5.js",
+      "static/chunks/413-3e9af7d541404945.js",
+      "static/chunks/app/page-8903b8e1e3116686.js"
+    ]
+  }
+}
